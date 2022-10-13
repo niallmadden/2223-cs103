@@ -5,3 +5,5 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
+  - geopy
+  - wordcloud
