@@ -7,4 +7,6 @@ dependencies:
   - matplotlib
   - geopy
   - wordcloud
-  - openpyxl 
+  - openpyxl
+  - rise
+  
