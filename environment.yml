@@ -9,4 +9,5 @@ dependencies:
   - wordcloud
   - openpyxl
   - rise
+  - playsound
   
