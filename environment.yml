@@ -6,5 +6,4 @@ dependencies:
   - pandas
   - matplotlib
   - emoji
-  - audio2numpy
   
