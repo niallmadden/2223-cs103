@@ -8,3 +8,6 @@ bayes_theorem
 password_strength
 ringtone_timeline
 turtles
+lisp
+lisp_cycles
+
