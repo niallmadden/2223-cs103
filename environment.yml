@@ -6,4 +6,7 @@ dependencies:
   - pandas
   - matplotlib
   - emoji
+  - folium
+  - geopy
+  
   

@@ -77,17 +77,10 @@ div.pink { background-color: pink; color: green}
 div.orange {    background-color: orange; }
 div.merigold {    background-color: #FFAE42; }
 div.red {    color: "red"; }
-div.bw {    color: white; 
-    background-color: black;   
-    text-align: center;
-    border: 3px solid green;}
+div.bw { color: white; background-color: black; text-align: center; border: 3px solid green;}
 
-div.bw {    color: white; 
-    background-color: black;   
-    text-align: center;
-    border: 3px solid green;}
 
-div.dby { color: #1b46c7;  background-color: #c79c1b;  text-align: center; border: 3px solid #1b46c7; 
+div.dby { color: #2E00FF;  background-color: #D1FF00;  text-align: center; border: 3px solid #1b46c7; 
     font-weight: bold; font-variant: small-caps; }
 
 div.dyb  { color: #D1FF00;  background-color: #2E00FF;  text-align: center; border: 3px solid #D1FF00; 
