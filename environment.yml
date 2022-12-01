@@ -8,5 +8,7 @@ dependencies:
   - emoji
   - folium
   - geopy
+  - wikipedia
+  
   
   
