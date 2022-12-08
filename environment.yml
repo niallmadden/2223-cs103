@@ -9,6 +9,7 @@ dependencies:
   - folium
   - geopy
   - wikipedia
+  - networkx
   
   
   
